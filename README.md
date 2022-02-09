@@ -31,7 +31,7 @@
 - [Scrum 简介](https://www.cnblogs.com/MingsonZheng/p/14284812.html)
 - [Scrum 核心](https://www.cnblogs.com/MingsonZheng/p/14290878.html)
 - [Scrum 团队](https://www.cnblogs.com/MingsonZheng/p/14300665.html)
-- [安全](https://www.cnblogs.com/MingsonZheng/p/14433627.html)
+- [安全](https://www.cnblogs.com/MingsonZheng/p/14433627.html)--[LighterApi](https://github.com/MingsonZheng/ArchitectTrainingCamp/tree/main/LighterApi)
 - [Identity Server](https://www.cnblogs.com/MingsonZheng/p/14961479.html)
 - [设计原则与模式](https://www.cnblogs.com/MingsonZheng/p/14968072.html)
 - [建立系统观](https://www.cnblogs.com/MingsonZheng/p/15713140.html)
