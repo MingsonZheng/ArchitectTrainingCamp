@@ -44,3 +44,7 @@
 - [组合模式](https://www.cnblogs.com/MingsonZheng/p/15773297.html)
 - [模板方法 && 建造者](https://www.cnblogs.com/MingsonZheng/p/15777078.html)
 - [KestrelServer源码分析](https://www.cnblogs.com/MingsonZheng/p/15815773.html)
+- [权限系统 RGCA 架构设计](https://www.cnblogs.com/MingsonZheng/p/15824666.html)
+- [权限系统 RGCA 开发任务](https://www.cnblogs.com/MingsonZheng/p/15881489.html)
+- [权限系统 代码实现 ActionAccess](https://www.cnblogs.com/MingsonZheng/p/15898449.html)--[dotnetnb.security](https://github.com/MingsonZheng/dotnetnb.security)
+- [权限系统 代码实现 EntityAccess](https://www.cnblogs.com/MingsonZheng/p/15902528.html)--[dotnetnb.security](https://github.com/MingsonZheng/dotnetnb.security)
