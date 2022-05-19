@@ -1,4 +1,4 @@
-# ArchitectTrainingCamp（.NET 云原生架构师训练营）
+# 🧰.NET 云原生架构师训练营
 
 ## 模块
 
